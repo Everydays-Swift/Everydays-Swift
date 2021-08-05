@@ -7,7 +7,7 @@
 Code from Youtube video series Everyday's swift 
 
 ## Video List: 
-1. [AppDelegate in SwiftUI] (../Video#1)
+1. [AppDelegate in SwiftUI] (./Video#1)
 
 
 
