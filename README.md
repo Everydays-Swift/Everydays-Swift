@@ -12,7 +12,7 @@ Code from Youtube video series **Everyday's swift**: <br>
  [Watch on Youtube](https://www.youtube.com/channel/UCuJ2oLnFjBfBrArVvPtdeDw)
 
 ## Video List: 
-1. [AppDelegate in SwiftUI](Everydays-Swift/tree/main/Video-1/)
+1. [AppDelegate in SwiftUI](Video-1/)
 
 
 
