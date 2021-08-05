@@ -18,5 +18,5 @@ Code from Youtube video series **Everyday's swift**: <br>
 
 
 
-Everyday's Swift is Series by Alok Choudhary.<br> 
+**Everyday's Swift** is a YourTube Series by Alok Choudhary.<br> 
 Reach me out: [htttp://alokchoudahry.com](htttp://alokchoudahry.com) 
